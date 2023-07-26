@@ -1,0 +1,8 @@
+D:\Simplilearn classes\Project2\Project2\bin\Debug\Project2.exe.config
+D:\Simplilearn classes\Project2\Project2\bin\Debug\Project2.exe
+D:\Simplilearn classes\Project2\Project2\bin\Debug\Project2.pdb
+D:\Simplilearn classes\Project2\Project2\obj\Debug\Project2.csproj.AssemblyReference.cache
+D:\Simplilearn classes\Project2\Project2\obj\Debug\Project2.csproj.SuggestedBindingRedirects.cache
+D:\Simplilearn classes\Project2\Project2\obj\Debug\Project2.csproj.CoreCompileInputs.cache
+D:\Simplilearn classes\Project2\Project2\obj\Debug\Project2.exe
+D:\Simplilearn classes\Project2\Project2\obj\Debug\Project2.pdb
